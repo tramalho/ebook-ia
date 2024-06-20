@@ -22,5 +22,9 @@ Por fim foi diagramado no próprio canvas as páginas do ebook.
 
 O ebook pode ser baixado [aqui](todo)
 
+Os prompts usados para geração de conteúdo está disponíveis [aqui](todo).
+
+As imagens geradas está disponíveis [aqui](todo).
+
 ## 💭 Reflexão
 O resultado compartilhado nesse repositório tem apenas fins didáticos e visa demonstrar os conhecimentos obtidos no uso Gen AI e não deve ser encarado como uma fonte de informação.
