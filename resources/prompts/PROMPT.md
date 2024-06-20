@@ -312,8 +312,19 @@ myView.setPaddingAll(16)
 Com essas extensions, você pode simplificar e otimizar o desenvolvimento de suas aplicações Android usando Kotlin.
 
 # Prompt (Imagens)
+```kotlin
 bugdroid, ciberpunk, cabeça, múltiplos tamanhos, capa de livro
+```
+```kotlin
 bugdroid, pixel art
+```
+```kotlin
 Criar uma imagem com múltiplos bugdroids em estilo pixel-art sempre olhando para frente em múltiplas posições, com diferentes formatos e tamanhos, caracterizando com diferentes profissões, gerar no máximo 7 itens
+```
+```kotlin
 Criar vários bugdroids em diferentes posições, de perfil, string
+```
+```kotlin
 varios bugdroids, ciberpunk, cabeça,  olhos, múltiplos tamanhos, pixel-art
+```
+
